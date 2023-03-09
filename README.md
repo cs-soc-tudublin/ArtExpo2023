@@ -12,7 +12,7 @@ In your folder, add a README which will provide some background into the work an
 
 Get coding!
 
-Once you feel that your work is good enough, push your changes to github and open a pull request, the maintainers will provide feedback and guidance from there and merge your work when it's ready.
+Push your changes to this repo. Open a pull request immediately. We will do weekly code reviews where we'll help eachother along!
 
 ## Rules & Recommendations
 
