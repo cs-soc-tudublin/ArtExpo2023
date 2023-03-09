@@ -30,3 +30,4 @@ Some recommendations and guidance.
 
 ### Keep in touch!
 If you want to get in touch with the maintainers, the society discord server will be your best bet.
+Keep up to date with the society by checking out our socials: https://linktr.ee/csplusplus
