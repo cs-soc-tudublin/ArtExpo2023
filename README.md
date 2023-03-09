@@ -12,7 +12,7 @@ In your folder, add a README which will provide some background into the work an
 
 Get coding!
 
-Push your changes to this repo. Open a pull request immediately. We will do weekly code reviews where we'll help eachother along!
+Push your changes to this repo. Open a pull request immediately. We will do weekly code reviews where we'll help each other along!
 
 ## Rules & Recommendations
 
